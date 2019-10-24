@@ -1,4 +1,6 @@
-*{
-    background-color: grey;
+.choice{
+    border: 1px solid lightgray;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 4px;
 }
-
